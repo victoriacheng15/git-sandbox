@@ -36,3 +36,14 @@ git push origin main
 ```
 
 This should update your main branch with latest change from development. Maybe ideal, but depend on the team.
+
+OR
+
+Always run this first
+
+``` 
+git fetch && git pull origin main
+```
+
+```
+```
